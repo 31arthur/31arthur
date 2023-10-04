@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @31arthur
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning golang
+- 💞️ I’m looking to collaborate on python and golang open source libraries
+- 📫 How to reach me on my email kanthikiranbhargav@gmail.com
